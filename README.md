@@ -1,2 +1,3 @@
 # ember-training
-A full ember training project
+A full ember training project.
+Each module has an available tag.
